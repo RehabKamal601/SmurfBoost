@@ -1,0 +1,7 @@
+http://127.0.0.1:8000/accounts/signup/
+http://127.0.0.1:8000/accounts/login/
+
+
+https://discord.com/developers/applications
+https://console.cloud.google.com/auth/clients/558963887769-20gjec3n0j7qp9lm5lqln9b9qlr31kej.apps.googleusercontent.com?inv=1&invt=Ab25uA&project=windy-semiotics-464318-k5
+
