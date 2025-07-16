@@ -121,11 +121,4 @@ This project is licensed under the MIT License - see the [LICENSE](smurfboost/LI
 
 ---
 
-> 💡 *Tip: Always keep your `.env` secrets out of source control.*
-
-```
-
----
-
-هل تحبي أجهزه كملف جاهز `.md` أو PDF أو أضيف فيه مزيد من الأقسام مثل API endpoints أو روابط التوثيق؟
-```
+> 💡 *Tip: Always keep your `.env` secrets out of source control.*```
